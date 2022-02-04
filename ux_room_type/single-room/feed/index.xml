@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Single Room &#8211; RIAD MYRA</title>
+	<atom:link href="http://localhost/wordpress/ux_room_type/single-room/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A HEAVENLY PLACE</description>
+	<lastBuildDate>Thu, 03 Feb 2022 18:44:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/06/logo-e1520353800493.png</url>
+	<title>Single Room &#8211; RIAD MYRA</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ba Sidi</title>
+		<link>/ux_room/ba-sidi/</link>
+		
+		<dc:creator><![CDATA[ibayoussef]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2022 18:44:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=ux_room&#038;p=5547</guid>
+
+					<description><![CDATA[20 square meters &#8211; 2 single beds (can be converted into a double bed, king size). This room is located upstairs with views of the patio, has two single beds and a bathroom with a blue zellige bath of Fez.]]></description>
+										<content:encoded><![CDATA[<p>20 square meters &#8211; 2 single beds (can be converted into a double bed, king size). This room is located upstairs with views of the patio, has two single beds and a bathroom with a blue zellige bath of Fez.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Aabouch</title>
+		<link>/ux_room/aabouch/</link>
+		
+		<dc:creator><![CDATA[ibayoussef]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 03:20:03 +0000</pubDate>
+				<guid isPermaLink="false">https://nuss.uxper.co/boutique-hotel/?post_type=ux_room&#038;p=2476</guid>
+
+					<description><![CDATA[20 square meters &#8211; 2 single beds (can be converted into a double bed, king size). This room is located upstairs with views of the patio, has two single beds and a bathroom with a blue zellige bath of Fez.]]></description>
+										<content:encoded><![CDATA[<p>20 square meters &#8211; 2 single beds (can be converted into a double bed, king size). This room is located upstairs with views of the patio, has two single beds and a bathroom with a blue zellige bath of Fez.</p>
+<p><script src="moz-extension://777b0905-7c38-46bb-bf00-0ba305295203/js/app.js" type="text/javascript"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jouhara</title>
+		<link>/ux_room/jouhara/</link>
+		
+		<dc:creator><![CDATA[ibayoussef]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 03:09:07 +0000</pubDate>
+				<guid isPermaLink="false">https://nuss.uxper.co/boutique-hotel/?post_type=ux_room&#038;p=2474</guid>
+
+					<description><![CDATA[17.50 square meters &#8211; 2 single beds (can be converted into a king size double bed). This room is located on the first floor overlooking the Riad&#8217;s interiors, has two single beds and a bathroom with a shower decorated in blue zellige of Fez. This room has a connecting door to the Caid suite, is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>17.50 square meters &#8211; 2 single beds (can be converted into a king size double bed). This room is located on the first floor overlooking the Riad&#8217;s interiors, has two single beds and a bathroom with a shower decorated in blue zellige of Fez. This room has a connecting door to the Caid suite, is perfect for families with children.</p>
+<p><script src="moz-extension://777b0905-7c38-46bb-bf00-0ba305295203/js/app.js" type="text/javascript"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
